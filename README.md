@@ -165,7 +165,7 @@ ALTER TABLE layoffs_staging2
 MODIFY COLUMN `date` DATE;
 ```
 
-#### 3. Populate Null/ Blank values
+#### 4. Populate Null/ Blank values
 
 ```sql
 -- Null values
